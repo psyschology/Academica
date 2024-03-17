@@ -302,3 +302,38 @@ body {
     font-size: 24px;
     cursor: pointer;
   }
+/* Parallax Section Styles */
+#about {
+  background-image: url('https://via.placeholder.com/1920x1080');
+}
+
+/* Additional Styles for About Page Content */
+.parallax-content {
+  padding: 50px;
+  text-align: justify;
+  color: white;
+}
+
+.founders {
+  margin-top: 30px;
+}
+
+.founders h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.founders ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.founders ul li {
+  font-size: 16px;
+}
+
+address {
+  margin-top: 30px;
+  font-style: normal;
+  font-size: 16px;
+}
