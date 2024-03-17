@@ -48,13 +48,14 @@ body {
   h2 {
     font-family: "Times New Roman", Times, serif;
     /* Change font family for titles */
-    color: #333;
+    color: #FFFFFF;
     /* Change text color for titles */
   }
   
   p {
     color: #666;
     /* Change text color for paragraphs */
+          font-size: 48px; /* Adjust the font size here */
   }
   
   form {
